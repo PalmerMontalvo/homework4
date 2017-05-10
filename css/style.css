@@ -103,7 +103,6 @@ header:after {
 .main-menu {
     position: relative;
     background-color: #323232;
-    z-index: 1;
     box-shadow: 1px 1px 4px 0px #333;
     font-family: Tahoma;
     font-size: 14px;
