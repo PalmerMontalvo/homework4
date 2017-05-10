@@ -37,7 +37,7 @@ header:after {
 }
 
 .logo {
-	position: relative;
+    position: relative;
     width: 283px;
     height: 164px;
     float: left;
@@ -54,7 +54,7 @@ header:after {
 }
 
 .right-panel {
-    width: 322px;
+    width: 500px;
     float: right;
 }
 
@@ -216,8 +216,9 @@ ul.menu > li:hover > ul.submenu {
 }
 
 footer {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 15px;
     text-align: center;
     color: white;
     opacity: 0.8;
